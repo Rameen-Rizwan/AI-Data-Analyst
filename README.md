@@ -71,7 +71,7 @@ AI-Data-Analyst/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Data-Analyst.git
+git clone https://github.com/Rameen-Rizwan/AI-Data-Analyst.git
 ```
 
 Navigate to the project folder:
